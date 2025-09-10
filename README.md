@@ -35,8 +35,7 @@ The project explores the distribution of electric vehicles in the Brescia area, 
 
 ## 📂 Repository Structure
 
-- /data → Spatial and demographic datasets with cleaning codes
-- 
-- /app → Shiny app code
-
-- /analysis → Explorative analysis
+- `/data` → Raw spatial and demographic datasets, plus data cleaning scripts.
+- `/RDA` → Processed `.Rda` files ready to be used by the Shiny app.  
+- `/app` → Source code of the Shiny dashboard.  
+- `/analysis` → Exploratory data analysis and notebooks.  
