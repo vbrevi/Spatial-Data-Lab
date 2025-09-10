@@ -12,7 +12,7 @@ This folder contains the datasets and scripts used to prepare the inputs for the
   - **Civil status** (population by marital status)  [https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,POP,1.0/POP_POPULATION/DCIS_POPRES1/IT1,22_289_DF_DCIS_POPRES1_25,1.0]
   - **Vehicles** (vehicle registration data)  [https://www.istat.it/comunicato-stampa/indicatori-del-parco-veicolare-anno-2023/]
 - Performs initial cleaning and preprocessing steps.  
-- Saves the cleaned outputs as `nome_pulito` files in this directory.  
+- Saves the cleaned outputs as `name_pulito` files in this directory.  
 
 ---
 
