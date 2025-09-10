@@ -27,8 +27,16 @@ The project explores the distribution of electric vehicles in the Brescia area, 
 
 - R
 
-Shiny
+- Shiny
 
 - Spatial data libraries (e.g., sf, leaflet, tmap)
 
 - Data visualization tools
+
+## 📂 Repository Structure
+
+- /app → Shiny app code
+
+- /data → Spatial and demographic datasets (when available)
+
+- /analysis → Explorative analysis
