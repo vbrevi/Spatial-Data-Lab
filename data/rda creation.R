@@ -132,9 +132,6 @@ save(opere_prog_es, file = "opere_prog_es.rda")
 mob_punt <- st_read(file.path(shp_path, "sistema della mobilità puntuale.shp"))
 save(mob_punt, file = "mob_punt.rda")
 
-# Percorso cartella shapefile
-shp_path <- "C:/Users/user/OneDrive/Desktop/uni/MAGISTRALE/secondo anno/secondo semestre/spatial data lab/projetto/componenti paesaggio urbano"
-
 # Carica e salva ciascun shapefile
 aree_ed <- st_read(file.path(shp_path, "aree_edificate.shp"))
 save(aree_ed, file = "aree_ed.rda")
@@ -143,4 +140,5 @@ confine <- st_read(file.path(shp_path, "confine_ambito.shp"))
 save(confine, file = "confine_ambito.rda")
 
 trasf <- st_read(file.path(shp_path, "trasformazioni_condizionali.shp"))
+
 save(trasf, file = "trasf.rda")
