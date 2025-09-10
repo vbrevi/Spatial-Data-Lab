@@ -1,9 +1,9 @@
-📊 # Shiny Dashboard – Spatial Data on Electric Vehicles in Brescia
+# 📊 Shiny Dashboard – Spatial Data on Electric Vehicles in Brescia
 
 This repository contains a lab project focused on spatial data analysis using an interactive Shiny App.
 The project explores the distribution of electric vehicles in the Brescia area, combined with demographic and socio-economic variables to provide deeper insights into local adoption patterns.
 
-🚀 ## Features
+## 🚀 Features
 
 - Interactive R Shiny dashboard for data exploration.
 
@@ -15,7 +15,7 @@ The project explores the distribution of electric vehicles in the Brescia area, 
 
 - Focus on spatial data visualization and interpretation.
 
-🎯 Objectives
+## 🎯 Objectives
 
 - Support territorial and policy analysis on electric mobility.
 
@@ -23,7 +23,7 @@ The project explores the distribution of electric vehicles in the Brescia area, 
 
 - Provide a didactic tool for experimenting with spatial data and Shiny dashboards.
 
-🛠️ ## Technologies
+## 🛠️ Technologies
 
 - R
 
