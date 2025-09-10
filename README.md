@@ -35,8 +35,8 @@ The project explores the distribution of electric vehicles in the Brescia area, 
 
 ## 📂 Repository Structure
 
+- /data → Spatial and demographic datasets with cleaning codes
+- 
 - /app → Shiny app code
-
-- /data → Spatial and demographic datasets (when available)
 
 - /analysis → Explorative analysis
